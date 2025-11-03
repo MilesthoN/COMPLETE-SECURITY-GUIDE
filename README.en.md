@@ -109,7 +109,7 @@ EN | [RU](README.md)
 
 - Do not answer unknown numbers (it flags your number as active)  
 - Do not call back unknown or missed numbers  
- ┗ Check the number via the official website
+  ┗ Check the number via the official website  
 - Do not give your phone number to strangers  
 - Do not enable  
   ┣ Webcam  
